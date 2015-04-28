@@ -1,0 +1,3 @@
+[submodule "libraries/tools"]
+	path = libraries/tools
+	url = git@code.waracle.net:android/tools.git
